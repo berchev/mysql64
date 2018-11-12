@@ -1,0 +1,9 @@
+packer_cache/
+output-ubuntu-1604-vbox/
+ubuntu-1604-vbox.box
+Vagrantfile
+.vagrant/
+vendor/
+Gemfile.lock
+.kitchen/
+.bundle/
