@@ -7,3 +7,5 @@ vendor/
 Gemfile.lock
 .kitchen/
 .bundle/
+mysql64-vbox.box
+mysql64-vmware.box
